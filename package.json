@@ -10,6 +10,6 @@
       "jsdom" : ">=0.2.4",
       "jasmine-node" : "1.0.9"
   },
-  "engines" : { "node" : ">=0.4.11" },
+  "engines" : { "node" : ">=0.4.7" },
   "main":"lib/nextrip.js"
 }
