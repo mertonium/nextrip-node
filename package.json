@@ -11,5 +11,5 @@
       "jasmine-node" : "1.0.9"
   },
   "engines" : { "node" : ">=0.4.11" },
-  "main":"nextrip.js"
+  "main":"lib/nextrip.js"
 }
