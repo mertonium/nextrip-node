@@ -7,7 +7,8 @@
   "author":"John Mertens <john@mertonium.com> (http://mertonium.com)",
   "repository":{ "type" : "git", "url" : "http://github.com/mertonium/nextrip-node.git" },
   "dependencies": {
-      "jsdom" : ">=0.2.4"
+      "jsdom" : ">=0.2.4",
+      "jasmine-node" : "1.0.9"
   },
   "engines" : { "node" : ">=0.4.11" },
   "main":"nextrip.js"
